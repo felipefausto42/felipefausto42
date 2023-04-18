@@ -1,13 +1,13 @@
-### Entering Felipe's Vault 💻
+### Entrando  no perfil de Felipe Fausto 💻
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipefausto42&show_icons=true&theme=tokyonight)
 
-#### Contact me with
+#### Me encontre aqui:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-fausto-0b592a206/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.fausto10/)
 
-### Techs i use
+#### Tecnologias que utilizo:
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
